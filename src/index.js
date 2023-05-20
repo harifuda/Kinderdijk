@@ -8,7 +8,7 @@ import WebFont from 'webfontloader';
 
 WebFont.load({
   google: {
-    families: ['Philosopher']
+    families: ['Philosopher', 'Sora']
   }
 });
 const root = ReactDOM.createRoot(document.getElementById('root'));

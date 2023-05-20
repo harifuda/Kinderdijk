@@ -4,7 +4,7 @@ import Layout from './components/layout';
 function App() {
   return (
     <Layout>
-      <h1 className="text-4xl text-center font-bold font-philo">
+      <h1 className="text-4xl text-center font-bold font-sora">
         KINDERDIJK 
       </h1>
     </Layout>

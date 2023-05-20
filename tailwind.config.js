@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      philo: ['Philosopher']
+      philo: ['Philosopher'],
+      sora: ['Sora']
     }
   },
   plugins: [],
