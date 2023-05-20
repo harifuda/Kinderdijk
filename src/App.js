@@ -7,7 +7,6 @@ function App() {
       <h1 className="text-4xl text-center font-bold font-philo">
         KINDERDIJK 
       </h1>
-      
     </Layout>
   );
 }
